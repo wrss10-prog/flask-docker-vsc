@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.egg-info/
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
